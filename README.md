@@ -7,8 +7,7 @@ University of California, Los Angeles (UCLA), Los Angeles, California, USA
 
 Research code, synthetic model inputs, recorded results, and manuscript sources for
 *Score-based Metropolis-Hastings with stable proposals: Invariance and calibration*.
-The intended journal is *Statistics and Computing*; this is not a claim of acceptance
-or publication.
+
 
 [Read the manuscript](manuscript/main.pdf) |
 [Online Resource 1](manuscript/supplement.pdf) |
