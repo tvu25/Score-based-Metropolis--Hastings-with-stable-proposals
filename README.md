@@ -1,7 +1,7 @@
 # Score-based Metropolis-Hastings with stable proposals
 ## Invariance and calibration
 
-**Truong Vu - sole manuscript author**  
+**Truong Vu**  
 Departments of Mathematics and Computational Medicine  
 University of California, Los Angeles (UCLA), Los Angeles, California, USA
 
