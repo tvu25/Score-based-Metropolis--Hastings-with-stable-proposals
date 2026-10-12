@@ -17,7 +17,7 @@ Research code, synthetic model inputs, recorded results, and manuscript sources 
 
 <!-- REPOSITORY_IDENTITY_BEGIN -->
 **Repository:** [tvu25/Score-based-Metropolis--Hastings-with-stable-proposals](https://github.com/tvu25/Score-based-Metropolis--Hastings-with-stable-proposals)  
-**Manuscript author:** Truong Vu (sole author).  
+**Manuscript author:** Truong Vu.  
 **Release/commit:** not yet supplied or independently verified. The repository address was provided by the author; this preparation did not inspect its live contents or change remote settings. See [repository status](docs/REPOSITORY_STATUS.md).
 <!-- REPOSITORY_IDENTITY_END -->
 
