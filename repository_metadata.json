@@ -1,0 +1,31 @@
+{
+  "title": "Score-based Metropolis–Hastings with stable proposals: Invariance and calibration",
+  "manuscript_authors": [
+    {
+      "given_names": "Truong",
+      "family_name": "Vu",
+      "affiliation": "Departments of Mathematics and Computational Medicine, University of California, Los Angeles (UCLA)"
+    }
+  ],
+  "repository_url": "https://github.com/tvu25/Score-based-Metropolis--Hastings-with-stable-proposals",
+  "public_version": null,
+  "publication_status": "unverified",
+  "manuscript_content_version": "R5",
+  "numerical_release": "R4-frozen-1",
+  "packaging_version": "SAC-github-setup-3-url",
+  "corresponding_email": null,
+  "license_status": "author_selection_pending",
+  "template_status": "svjour3 preview compiled; sn-jnl branch requires official class and has not been validated",
+  "github_setup": {
+    "prepared_locally": true,
+    "remote_created": null,
+    "remote_settings_applied": false,
+    "github_actions_run_verified": false,
+    "planned_repository": "tvu25/Score-based-Metropolis--Hastings-with-stable-proposals",
+    "planned_tag": null,
+    "repository_url_provided_by_author": true,
+    "remote_access_verified": false,
+    "remote_created_by_assistant": false
+  },
+  "verification_note": "The author supplied this URL. Live repository contents, visibility, tags, commits, assets and Actions runs could not be inspected from the preparation environment."
+}

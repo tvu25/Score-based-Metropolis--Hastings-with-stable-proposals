@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Please cite this repository and the accompanying manuscript when using the code or data."
+type: software
+repository-code: "https://github.com/tvu25/Score-based-Metropolis--Hastings-with-stable-proposals"
+title: "Score-based Metropolis-Hastings with stable proposals: Invariance and calibration - reproducibility materials"
+version: "R4-frozen-1"
+authors:
+  - family-names: "Vu"
+    given-names: "Truong"
+    affiliation: "Departments of Mathematics and Computational Medicine, University of California, Los Angeles (UCLA)"
+preferred-citation:
+  type: unpublished
+  title: "Score-based Metropolis-Hastings with stable proposals: Invariance and calibration"
+  authors:
+    - family-names: "Vu"
+      given-names: "Truong"
+  year: 2026
+  url: "https://github.com/tvu25/Score-based-Metropolis--Hastings-with-stable-proposals"
+  notes: "Manuscript scientific version R5; journal-format preview. Not an assertion of journal acceptance or publication."
+# Repository URL supplied by the author; a public release tag/commit has not been verified.
+# The version above identifies the frozen numerical materials, not a GitHub tag.
+# No journal DOI, ORCID, email, publication date, or license has been invented.
